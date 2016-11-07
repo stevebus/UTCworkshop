@@ -157,8 +157,8 @@ def iothub_client_sample_run():
 	print("Sending Device Info Message: %s" % deviceInfoTxt)
 
 	# send the 'deviceinfo' message to IoTHub
-	deviceInfoMsg = IoTHubMessage(bytearray(deviceInfoTxt, 'utf8'))
-	iotHubClient.send_event_async(deviceInfoMsg, send_confirmation_callback, i)	
+#	deviceInfoMsg = IoTHubMessage(bytearray(deviceInfoTxt, 'utf8'))
+#	iotHubClient.send_event_async(deviceInfoMsg, send_confirmation_callback, i)	
 
 	# main loop, run forever
         while True:
