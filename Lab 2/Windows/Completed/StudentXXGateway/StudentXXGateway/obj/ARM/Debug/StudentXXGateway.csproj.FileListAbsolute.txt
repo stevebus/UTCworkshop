@@ -1,0 +1,366 @@
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\StudentXXGateway.winmd
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\StudentXXGateway.pdb
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\resources.pri
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\AppxManifest.xml
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Core\AppxManifest.xml
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Core\UWPShim.exe
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\StudentXXGateway.build.appxrecipe
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Microsoft.Azure.Devices.Client.winmd
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Microsoft.CSharp.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Core.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Numerics.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Serialization.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Web.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Windows.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.Linq.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.Serialization.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Microsoft.VisualBasic.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Newtonsoft.Json.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.AppContext.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.Concurrent.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.Immutable.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.NonGeneric.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.Specialized.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ComponentModel.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Data.Common.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.Debug.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.Tools.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Dynamic.Runtime.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Globalization.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Globalization.Calendars.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Globalization.Extensions.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.Compression.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\ClrCompression.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.FileSystem.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Linq.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Linq.Expressions.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Linq.Parallel.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Linq.Queryable.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Http.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Http.Rtc.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.NetworkInformation.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Primitives.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Requests.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Sockets.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Numerics.Vectors.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ObjectModel.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Private.Networking.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Private.ServiceModel.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Private.Uri.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Context.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Emit.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Extensions.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Metadata.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Primitives.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Resources.ResourceManager.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Extensions.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Handles.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.InteropServices.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Numerics.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Security.Claims.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Security.Principal.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Http.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Security.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Text.Encoding.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Text.RegularExpressions.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Overlapped.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Tasks.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Timer.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.XDocument.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.XmlDocument.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.csprojResolveAssemblyReference.cache
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.winmd
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.pdb
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.winmdobj
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.compile.pdb
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\ResourceHandlingTask.state
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\priconfig.xml
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\priconfig.xml.intermediate
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\layout.resfiles
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\layout.resfiles.intermediate
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\resources.resfiles
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\resources.resfiles.intermediate
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\pri.resfiles
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\pri.resfiles.intermediate
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\qualifiers.txt
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\qualifiers.txt.intermediate
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\stevebus\documents\visual studio 2015\Projects\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\StudentXXGateway.winmd
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\StudentXXGateway.pdb
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\resources.pri
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\AppxManifest.xml
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Core\UWPShim.exe
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\StudentXXGateway.build.appxrecipe
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Microsoft.Azure.Devices.Client.winmd
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Core.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Numerics.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Windows.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.AppContext.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Globalization.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\ClrCompression.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Linq.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.csprojResolveAssemblyReference.cache
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.winmd
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.pdb
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.winmdobj
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\StudentXXGateway.compile.pdb
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\priconfig.xml
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\layout.resfiles
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\resources.resfiles
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\pri.resfiles
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\qualifiers.txt
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 2\Completed\StudentXXGateway\StudentXXGateway\obj\ARM\Debug\ProjectArchitectures.txt
