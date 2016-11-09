@@ -13,16 +13,6 @@ import iothub_client
 from iothub_client import *
 from iothub_client_args import *
 
-##############   values to change  ##############
-deviceID = "<yourdeviceID>"
-deviceKey = "<yourdevickey>"
-iotHubHostName = "<youriothubname>.azure-devices.net"  #ex: myiothub.azure-devices.net
-
-######## put the lat and long of your fav place here ##########
-######## otherwise we default to the center of the football universe ######
-latitude = 33.208350
-longitude = -87.550320
-
 # HTTP options
 # these value are only used if HTTP is used as the protocol (not the default)
 # Because it can poll "after 9 seconds" polls will happen effectively
@@ -55,10 +45,10 @@ protocol = IoTHubTransportProvider.AMQP
 # this is the device-specific connection string, as opposed to the general hub
 #	connection string
 # "HostName=<host_name>;DeviceId=<device_id>;SharedAccessKey=<device_key>"
-connection_string = "HostName=%s;DeviceId=%s;SharedAccessKey=%s"
+connection_string = "HostName=<host_name>;DeviceId=<device_id>;SharedAccessKey=<device_key>"
 
 # the parameterized message that we will send to IoTHub (we'll fill in temp and humidity later
-msg_txt = "{\"deviceId\":\"%s\",\"Temperature\":%.2f,\"Humidity\":%.2f}"
+msg_txt = "{\"deviceId\":\"rpi-linux\",\"Temperature\":%.2f,\"Humidity\":%.2f}"
 
 # function to toggle the LED, just to indicate that we are sending data to IoTHub
 def blinkLED(pin):
@@ -124,7 +114,6 @@ def send_confirmation_callback(message, result, user_context):
 # this function makes the actual connection to IoTHub and, depending on the
 #	protocol chosen, set some configuration parameters
 def iothub_client_init():
-
     # prepare iothub client
     iotHubClient = IoTHubClient(connection_string, protocol)
     if iotHubClient.protocol == IoTHubTransportProvider.HTTP:
@@ -145,9 +134,6 @@ def iothub_client_init():
 # this function is the primary function called to get started once the
 #	command line parameters have been parsed.
 def iothub_client_sample_run():
-    global deviceID
-    global latitude
-    global longitude
 
     try:
 
@@ -166,14 +152,13 @@ def iothub_client_sample_run():
 	#	in the portal, it also sends the list of commands that this
 	#	device supports, as well as it's latitude and longitude for
 	#	display on the map!
-	deviceInfoTxt = "{\"ObjectType\":\"DeviceInfo\", \"Version\":\"1.0\", \"IsSimulatedDevice\":false, \"DeviceProperties\":{\"DeviceID\":\"%s\", \"HubEnabledState\":true, \"Latitude\":%.6f, \"Longitude\":%.6f}, \"Commands\":[{ \"Name\":\"ON\", \"Parameters\":null},{ \"Name\":\"OFF\", \"Parameters\":null}]}"
-	deviceInfoTxt = deviceInfoTxt % (deviceID, latitude, longitude)	
+	deviceInfoTxt = "{\"ObjectType\":\"DeviceInfo\", \"Version\":\"1.0\", \"IsSimulatedDevice\":false, \"DeviceProperties\":{\"DeviceID\":\"rpi-linux\", \"HubEnabledState\":true, \"Latitude\":33.620325, \"Longitude\":-86.968372}, \"Commands\":[{ \"Name\":\"ON\", \"Parameters\":null},{ \"Name\":\"OFF\", \"Parameters\":null}]}"
 
 	print("Sending Device Info Message: %s" % deviceInfoTxt)
 
 	# send the 'deviceinfo' message to IoTHub
-	deviceInfoMsg = IoTHubMessage(bytearray(deviceInfoTxt, 'utf8'))
-	iotHubClient.send_event_async(deviceInfoMsg, send_confirmation_callback, i)	
+#	deviceInfoMsg = IoTHubMessage(bytearray(deviceInfoTxt, 'utf8'))
+#	iotHubClient.send_event_async(deviceInfoMsg, send_confirmation_callback, i)	
 
 	# main loop, run forever
         while True:
@@ -195,7 +180,7 @@ def iothub_client_sample_run():
 	    # fill in the humidity and temp in our parameterized template
 	    #	string from earlier.  Also, convert temp reading from
 	    #	celcius to farenheit
-	    msg_txt_formatted = msg_txt % (deviceID, 
+	    msg_txt_formatted = msg_txt % (
 		temperature * 9/5 + 32, humidity)
 
 	    print("Sending(%i):%s" % (i, msg_txt_formatted))
@@ -228,8 +213,6 @@ def usage():
 if __name__ == '__main__':
     print("\nPython %s" % sys.version)
     print("IoT Hub for Python SDK Version: %s" % iothub_client.__version__)
-
-    connection_string = connection_string % (iotHubHostName, deviceID, deviceKey)
 
     try:
         (connection_string, protocol) = get_iothub_opt(sys.argv[1:], connection_string, protocol)
