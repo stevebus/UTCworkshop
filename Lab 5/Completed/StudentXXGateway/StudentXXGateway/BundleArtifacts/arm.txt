@@ -1,0 +1,2 @@
+MainPackage=C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 5\Completed\StudentXXGateway\StudentXXGateway\bin\ARM\Debug\StudentXXGateway_1.0.0.0_ARM_Debug.appx
+SymbolPackage=C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 5\Completed\StudentXXGateway\StudentXXGateway\AppPackages\StudentXXGateway_1.0.0.0_Debug_Test\StudentXXGateway_1.0.0.0_ARM_Debug.appxsym

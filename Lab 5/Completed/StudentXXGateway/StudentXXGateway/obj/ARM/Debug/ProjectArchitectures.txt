@@ -1,0 +1,1 @@
+C:\Users\stevebus\OneDrive\iot\IoTWorkshop\Internet of Things Workshop\V2\Lab 5\Completed\StudentXXGateway\StudentXXGateway\StudentXXGateway.csproj;arm
